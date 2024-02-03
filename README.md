@@ -11,5 +11,5 @@ These are thoughts, feelings, poems, lyrics, biographies, translations, autobiog
 - [Atteya Isaac AbdelMessih](/isaac.md)
 - [Shafiq Demian](/demian.md)
 - [Kamal Farid Isaac](/kamal-isaac.md)
-- [Claudius Labib Yuhanna of Mir](/clauidius.md)
+- [Claudius Labib Yuhanna of Mir](/claudius.md)
 - [Sarkis](/sarkis.md)
