@@ -10,3 +10,6 @@ These are thoughts, feelings, poems, lyrics, biographies, translations, autobiog
 ## Biographies
 - [Atteya Isaac AbdelMessih](/isaac.md)
 - [Shafiq Demian](/demian.md)
+- [Kamal Farid Isaac](/kamal-isaac.md)
+- [Claudius Labib Yuhanna of Mir](/clauidius.md)
+- [Sarkis](/sarkis.md)
