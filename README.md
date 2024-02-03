@@ -4,8 +4,9 @@ These are thoughts, feelings, poems, lyrics, biographies, translations, autobiog
 ## Paslis
 - [Baptism](/baptism-psali.md)
 
-## Teachings
-- [Pachomian](/pachomian.md)
+## Apophthegma Patrum Secularus
+- [Catechism of St.Pachomius](/pachomian.md)
+- [Apophthegma Patrum Secularus I](/apopthegma1.md)
 
 ## Biographies
 - [Atteya Isaac AbdelMessih](/isaac.md)
