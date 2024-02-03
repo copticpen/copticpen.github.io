@@ -18,3 +18,8 @@ These are thoughts, feelings, poems, lyrics, biographies, translations, autobiog
 - [Dead Language](/deadlanguage.md)
 - [My Language](/language-myblood.md)
 - [Shadow of a language](/her-shadow.md)
+
+# Stories
+- [The Crownless King](/crownless.md)
+- [The morning](/morning.md)
+- [The field](field.md)
