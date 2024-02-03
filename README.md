@@ -5,7 +5,7 @@ These are thoughts, feelings, poems, lyrics, biographies, translations, autobiog
 [Baptism](https://github.com/copticpen/copticpen.github.io/blob/main/baptism-psali.txt)
 
 ## Teachings
-[Pachomian](https://github.com/copticpen/copticpen.github.io/blob/main/pachomian.txt)
+[Pachomian](/pachomian.md)
 
 ## Biographies
 [Atteya Isaac AbdelMessih](https://github.com/copticpen/copticpen.github.io/blob/main/isaac.md)
