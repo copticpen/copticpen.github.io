@@ -1,5 +1,5 @@
 # Coptic Pen
-These are thoughts, feelings, poems, lyrics, biographies, translations, autobiography, essays, memoirs, stories and nonsense written in Coptic language. Why do I write in a dead language? What purpose does it serve? I find no rational satisfactory answer. Is it nonsense? I tend not to judge I just write in Coptic language. This is as far as this blog goes in English language. I do not tend to write translations,
+These are thoughts, feelings, poems, lyrics, biographies, translations, autobiography, essays, memoirs, stories and nonsense written in Coptic language. Why do I write in a dead language? What purpose does it serve? I find no rational satisfactory answer. Is it nonsense? I tend not to judge I just write in Coptic language. This is as far as this blog goes in English language. 
 
 ## Paslis
 - [Baptism](/baptism-psali.md)
@@ -19,7 +19,10 @@ These are thoughts, feelings, poems, lyrics, biographies, translations, autobiog
 - [My Language](/language-myblood.md)
 - [Shadow of a language](/her-shadow.md)
 
-# Stories
+## Stories
 - [The Crownless King](/crownless.md)
 - [The morning](/morning.md)
 - [The field](field.md)
+
+###### PS:
+I do not tend to write translations.
