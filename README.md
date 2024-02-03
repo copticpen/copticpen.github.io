@@ -13,3 +13,8 @@ These are thoughts, feelings, poems, lyrics, biographies, translations, autobiog
 - [Kamal Farid Isaac](/kamal-isaac.md)
 - [Claudius Labib Yuhanna of Mir](/claudius.md)
 - [Sarkis](/sarkis.md)
+
+## Autobiography
+- [Dead Language](/deadlanguage.md)
+- [My Language](/language-myblood.md)
+- [Shadow of a language](/her-shadow.md)
