@@ -9,4 +9,4 @@ These are thoughts, feelings, poems, lyrics, biographies, translations, autobiog
 
 ## Biographies
 - [Atteya Isaac AbdelMessih](/isaac.md)
-- [Shafiq Demian][/demian.md]
+- [Shafiq Demian](/demian.md)
