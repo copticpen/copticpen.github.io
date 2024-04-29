@@ -6,7 +6,7 @@ These are thoughts, feelings, poems, lyrics, biographies, translations, autobiog
 
 ## Apophthegma Patrum Secularus
 - [Catechism of St.Pachomius](/pachomian.md)
-- [Apophthegma Patrum Secularus I](/apopthegma1.md)
+- [Apophthegma Patrum Secularus I](/apopthegmata-patrum.md)
 
 ## Biographies
 - [Atteya Isaac AbdelMessih](/isaac.md)
