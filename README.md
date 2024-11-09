@@ -24,11 +24,11 @@ These are thoughts, feelings, poems, lyrics, biographies, translations, autobiog
 ## Stories
 - [The Crownless King](/crownless.md)
 - [The morning](/morning.md)
-- [The field](field.md)
-- [The mirage](meui.md)
+- [The field](/field.md)
+- [The mirage](/meui.md)
 
  ## Bashmuric
- -[letter][/bashmuric1.md]
+ -[letter](/bashmuric1.md)
 
 ###### PS:
 I do not tend to write translations.
