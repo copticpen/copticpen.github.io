@@ -27,5 +27,8 @@ These are thoughts, feelings, poems, lyrics, biographies, translations, autobiog
 - [The field](field.md)
 - [The mirage](meui.md)
 
+ ## Bashmuric
+ -[letter][/bashmuric1.md]
+
 ###### PS:
 I do not tend to write translations.
