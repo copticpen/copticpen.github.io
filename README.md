@@ -13,7 +13,7 @@ These are thoughts, feelings, poems, lyrics, biographies, translations, autobiog
 - [Nabil Mikhail Markos](/nmm.md)
 - [Shafiq Demian](/demian.md)
 - [Kamal Farid Isaac](/kamal-isaac.md)
-- [Claudius Labib Yuhanna of Mir](/claudius.md)
+- [Claudius Labib of Mir](/claudius.md)
 - [Sarkis](/sarkis.md)
 
 ## Autobiography
@@ -28,7 +28,7 @@ These are thoughts, feelings, poems, lyrics, biographies, translations, autobiog
 - [The mirage](/meui.md)
 
  ## Bashmuric
- -[letter](/bashmuric1.md)
+- [letter](/bashmuric1.md)
 
 ###### PS:
 I do not tend to write translations.
