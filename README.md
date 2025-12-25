@@ -3,7 +3,7 @@ These are thoughts, feelings, poems, lyrics, biographies, translations, autobiog
 
 ## Anthologies
 - [Under the Dome](/copticpoems-gnu.pdf)
-- [Dew dops](/haiku-d.pdf)
+- [Dew drops](/haiku-d.pdf)
 
 ## Psalis
 - [Baptism](/baptism-psali.md)
