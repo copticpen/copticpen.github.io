@@ -5,6 +5,9 @@ These are thoughts, feelings, poems, lyrics, biographies, translations, autobiog
 - [Under the Dome](/copticpoems-gnu.pdf)
 - [Dew drops](/haiku-d.pdf)
 
+## Epistles
+- [RemEnKimi@egroups.com email correspondence](/remenkimi.pdf)
+
 ## Psalis
 - [Baptism](/baptism-psali.md)
 
