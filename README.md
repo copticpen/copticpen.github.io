@@ -6,7 +6,8 @@ These are thoughts, feelings, poems, lyrics, biographies, translations, autobiog
 
 ## Doxologies
 - [Pope Cyril VI](/popecyrilvi.md)
-- St Mary of Egypt: [Adam](/mary-egypt-adam.md) & [Watos](/mary-egypt-watos.md)  
+- St Mary of Egypt: [Adam](/mary-egypt-adam.md) & [Watos](/mary-egypt-watos.md)
+- [The Magi](/magi.md)  
   
 ## Apophthegma Patrum Secularus
 - [Catechism of St.Pachomius](/pachomian.md)
