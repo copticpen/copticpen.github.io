@@ -6,6 +6,7 @@ These are thoughts, feelings, poems, lyrics, biographies, translations, autobiog
 
 ## Doxologies
 - [Pope Cyril VI](/popecyrilvi.md)
+- St Mary of Egypt: [Adam](/mary-egypt-adam.md) & [Watos](/mary-egypt-watos.md)  
   
 ## Apophthegma Patrum Secularus
 - [Catechism of St.Pachomius](/pachomian.md)
@@ -34,4 +35,4 @@ These are thoughts, feelings, poems, lyrics, biographies, translations, autobiog
 - [letter](/bashmuric1.md)
 
 ###### PS:
-I do not tend to write translations.
+I do not tend to write translations. Except for psalis & doxologies, all translations from Sahidic are liberal, personal, with some changes and should not be taken as literal ones
