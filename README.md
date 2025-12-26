@@ -4,6 +4,7 @@ These are thoughts, feelings, poems, lyrics, biographies, translations, autobiog
 ## Anthologies
 - [Under the Dome](/copticpoems-gnu.pdf)
 - [Dew drops](/haiku-d.pdf)
+- [An echo of a shadow of a language](/echo.pdf)
 
 ## Epistles
 - [RemEnKimi@egroups.com email correspondence](/remenkimi.pdf)
