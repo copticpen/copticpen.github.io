@@ -28,7 +28,7 @@ These are thoughts, feelings, poems, lyrics, biographies, translations, autobiog
   
 ## Apophthegma Patrum Secularus
 - [Catechism of St.Pachomius](/pachomian.md)
-- [Apophthegma Patrum Secularus I](/apophthegmata-patrum.md)
+- [Apophthegmata Patrum Secularus I](/apophthegmata-patrum.md)
 
 ## Hagiography Secularus
 - [Agathe Stylites](/agathe-stylites.md)
