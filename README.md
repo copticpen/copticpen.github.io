@@ -22,6 +22,7 @@ These are thoughts, feelings, poems, lyrics, biographies, translations, autobiog
 - [The Magi](/magi.md)
 
 ## Antiphonarion
+- Tut [14 Adam](/tut-adam-14.md)
 - Kiahk [26 Adam](/kiahk-26.md)
   
 ## Apophthegma Patrum Secularus
