@@ -20,6 +20,7 @@ These are thoughts, feelings, poems, lyrics, biographies, translations, autobiog
 - [Pope Cyril VI](/popecyrilvi.md)
 - St Mary of Egypt: [Adam](/mary-egypt-adam.md) & [Watos](/mary-egypt-watos.md)
 - [The Magi](/magi.md)
+- [Twenty One Martyrs of Libya 6 Meshir](/twenty-one-martyrs.md)
 
 ## Antiphonarion
 - Tut [14 Adam](/tut-adam-14.md)
