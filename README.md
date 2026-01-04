@@ -3,8 +3,8 @@ These are thoughts, feelings, poems, lyrics, biographies, translations, autobiog
 
 ## Anthologies
 - [Under the Dome](/copticpoems-gnu.pdf)
-- [Dew drops](/haiku-d.pdf)
-- [An echo of a shadow of a language](/echo.pdf)
+- [Dew Drops](/haiku-d.pdf)
+- [An Echo of a Shadow of a Language](/echo.pdf)
 - [Coptic Quill](/Copticquill-Third.pdf)
 
 ## Gospels
