@@ -54,4 +54,4 @@ These are thoughts, feelings, poems, lyrics, biographies, translations, autobiog
 - [letter](/bashmuric1.md)
 
 ###### PS:
-I do not tend to write translations. Except for a few psalis & doxologies, all translations from Sahidic are liberal, personal, with some changes and should not be taken as literal ones. It is safe to consider all the work aprocrypha or anathema. 
+_I do not tend to write translations. Except for a few psalis, antiphonarion & doxologies, all translations from Sahidic are liberal, personal, with some changes and should not be taken as literal ones. It is safe to consider all the work aprocrypha or anathema._ 
