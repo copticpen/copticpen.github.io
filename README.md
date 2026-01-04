@@ -5,6 +5,7 @@ These are thoughts, feelings, poems, lyrics, biographies, translations, autobiog
 - [Under the Dome](/copticpoems-gnu.pdf)
 - [Dew drops](/haiku-d.pdf)
 - [An echo of a shadow of a language](/echo.pdf)
+- [Coptic Quill](/Copticquill-Third.pdf)
 
 ## Gospels
 - [The Gospel according to Silvanos](/silvanos.pdf)
