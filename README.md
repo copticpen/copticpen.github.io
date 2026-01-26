@@ -25,7 +25,7 @@ These are thoughts, feelings, poems, lyrics, biographies, translations, autobiog
 ## Antiphonarion
 - Tut [14 Adam](/tut-adam-14.md)
 - Kiahk [26 Adam](/kiahk-26.md)
-- Tobi [16 Adam](tobi16.md)
+- Tobi [16 Adam](tobi16-adam.md)
   
 ## Apophthegma Patrum Secularus
 - [Catechism of St.Pachomius](/pachomian.md)
