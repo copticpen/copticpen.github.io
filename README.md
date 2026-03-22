@@ -12,12 +12,8 @@ An attempt to write smaller forms of poetry eg Haiku, Tanka etc. in Coptic
 A compilation of original writings, and variations on established Coptic literary texts
 - [An Echo of a Shadow of a Language](/echo.pdf)
 
-A complitation of contemporary writings by various authors
+A compilation of contemporary writings by various authors
 - [Coptic Quill](/Copticquill-Third.pdf)
-
-### Epistles
-Correspondence in Coptic from an email group (1716-1736 AM) (2000-2020 CE)  
-- [RemEnKimi@egroups.com email correspondence](/remenkimi.pdf)
 
 ### Doxologies
 New compositions in Coptic language
@@ -45,6 +41,11 @@ New compositions in Coptic language
 - [The field](/field.md)
 - [The mirage](/meui.md)
 
+### Epistles
+Correspondence in Coptic from an email group (1716-1736 AM) (2000-2020 CE)  
+- [RemEnKimi@egroups.com email correspondence](/remenkimi.pdf)
+
+
 ## Variations  on existing texts
 ### Apophthegma Patrum Secularus
 - [Catechism of St.Pachomius](/pachomian.md)
@@ -68,6 +69,8 @@ Psalis translated from Sahidic
 - Kiahk [26 Adam](/kiahk-26.md)
 - Tobi [16 Adam](tobi16-adam.md)  
 
+### Narratives
+- [The destruction of a pagan temple](/erphei.md) 
 
  ## Bashmuric
  Letters in Bashmuric from a book by Crum
