@@ -72,7 +72,7 @@ Psalis translated from Sahidic
 ### Narratives
 - [The destruction of a pagan temple](/erphei.md) 
 
- ## Bashmuric
+### Bashmuric
  Letters in Bashmuric from a book by Crum
 - [letter](/bashmuric1.md)
 
