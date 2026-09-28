@@ -57,7 +57,7 @@ Correspondence in Coptic from an email group (1716-1736 AM) (2000-2020 CE)
 ## Compilations and translations of Coptic literary heritage
 ### Gospels
 A compilation of verses
-- [The Gospel according to Silvanos](/silvanos.pdf)
+- [The Gospel according to Silvanus](/silvanos.pdf)
   
 ### Psalis
 Psalis translated from Sahidic
