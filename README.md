@@ -6,7 +6,8 @@ These are thoughts, feelings, poems, lyrics, biographies, translations, autobiog
 An anthology of original poems in Coptic
 - [Under the Dome](/copticpoems-gnu.pdf)
 
-An attempt to write smaller forms of poetry eg Haiku, Tanka etc. in Coptic  
+An attempt to write smaller forms of poetry eg Haiku, Tanka, Couplets, Cinquain &
+Nonet etc. in Coptic  
 - [Dew Drops](/haiku-d.pdf)
 
 A compilation of original writings, and variations on established Coptic literary texts
