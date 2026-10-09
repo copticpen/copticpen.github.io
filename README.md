@@ -43,9 +43,12 @@ New compositions in Coptic language
 - [The mirage](/meui.md)
 
 ### Epistles
-Correspondence in Coptic from an email group (1716-1736 AM) (2000-2020 CE)  
+Correspondence in Coptic from an email group (1716-1736 AM) (2000-2020 CE) 
+- [RemEnKimi@yahoogroups.com emails](/bashandy-RemEnKimi-epistles.pdf)
 - [RemEnKimi@egroups.com email correspondence](/remenkimi.pdf)
-
+  
+### Blog
+- [Coptic Pen Blog](https://bashandy.blogspot.com/)
 
 ## Variations  on existing texts
 ### Apophthegma Patrum Secularus
