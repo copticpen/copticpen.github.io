@@ -4,7 +4,7 @@ These are thoughts, feelings, poems, lyrics, biographies, translations, autobiog
 ___________ _Bashandy Tadros_
 
 
-## Original works
+## Original Works
 ### Anthologies
 An anthology of original poems in Coptic
 - [Under the Dome](/copticpoems-gnu.pdf)
@@ -28,7 +28,7 @@ New compositions in Coptic language
 
 ### Biographies
 - [Atteya Isaac AbdelMessih](/isaac.md)
-- [Nabil Mikhail Markos](/nmm.md)
+- [Nabil Mikhail Markus](/nmm.md)
 - [Shafiq Demian](/demian.md)
 - [Kamal Farid Isaac](/kamal-isaac.md)
 - [Claudius Labib of Mir](/claudius.md)
@@ -41,9 +41,9 @@ New compositions in Coptic language
 
 ### Stories
 - [The Crownless King](/crownless.md)
-- [The morning](/morning.md)
-- [The field](/field.md)
-- [The mirage](/meui.md)
+- [The Morning](/morning.md)
+- [The Field](/field.md)
+- [The Mirage](/meui.md)
 
 ### Epistles
 Correspondence in Coptic from an email group (1716-1736 AM) (2000-2020 CE) 
